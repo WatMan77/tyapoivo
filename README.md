@@ -1,2 +1,2 @@
-# tyapoivo
-Scämcalendar
+#Scamlendar
+A project I did with two friends during the Stupid Hackathon 2022. The point of this project was to create an app that has some sort of scam involved in it. We created a calendar to which you can add tasks and when the day of the tasks arrives, the tasks are mysteriously moved to the next day and today you actually had to do something else like "Pick up a duck" or "Touch grass". When the next day after that arrives, the tasks are moved back to their original day and the dummy tasks have disappeared.
